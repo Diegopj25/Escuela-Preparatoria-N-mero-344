@@ -20,7 +20,7 @@
         color: rgb (0,128,0);
         text-align: center;
     }
-    .info {
+    p {
         width: 50%;
         margin: 0 auto;
         background-color: #fff;
@@ -28,10 +28,6 @@
         border: 2px solid #333;
         border-radius: 10px;
         margin-top: 20px;
-    }
-    #contacto {
-        float: right;
-        margin-left: 20px;
     }
 </style>
 </head>
@@ -79,10 +75,9 @@
     <img src="https://i.pinimg.com/236x/80/c4/9b/80c49bee9ac6f4e63602c7069f707e5d.jpg" alt="UPREZ" width="200">
     <h3 id="h3"> La Unión Popular Revolucionaria Emiliano Zapata (Uprez) fundada el 1 de Febrero de 1987. Tiene como objetivo formar una organización frentista que ayude a la transformación del país.</h3>
      
-    <div id="contacto">
+    <p id="contacto">
         <h2>Contacto</h2>
-        <p>Calle Prolongación Manuel Hernández #1 La Candelaria Tlapala, Municipio de Chalco C.P. 56641</p>
-        <p>Teléfono: 55 5982 1169</p>
-</div>
+        <h2>Calle Prolongación Manuel Hernández #1 La Candelaria Tlapala, Municipio de Chalco C.P. 56641</h2>
+        <h3>Teléfono: 55 5982 1169</h3>
 </body>
 </html>
