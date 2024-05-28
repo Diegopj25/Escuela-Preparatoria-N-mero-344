@@ -4,15 +4,15 @@
 <meta charset="UTF-8">
 <title>Preparatoria XYZ</title>
 <style>
-    body {
+    body{
         font-family: Arial, sans-serif;
         background-color: #f2f2f2;
     }
-    h1 {
+      h1{
         color: rgb (0,0,225);
         text-align: center;
     }
-    h2{
+      h2{
         color: rgb (128,0,128);
         text-align: center;
     }
@@ -42,7 +42,7 @@
     <h2 id="h2">Si bien las instalaciones son prestadas por la Escuela Telesecunaria Emiliano Zapata Salazar, La Directora Susana Díaz Reyes, lucha día con día por la costruccion del edificio.</h2>
 
 
-<div class="info">
+<h1 class="info">
     <h2 id="h2">Profesores</h2>
     <ol>
         <li>Aguilar Ríos José Juan</li>
@@ -83,7 +83,6 @@
         <h2>Contacto</h2>
         <p>Calle Prolongación Manuel Hernández #1 La Candelaria Tlapala, Municipio de Chalco C.P. 56641</p>
         <p>Teléfono: 55 5982 1169</p>
-    </div>
 </div>
 </body>
 </html>
